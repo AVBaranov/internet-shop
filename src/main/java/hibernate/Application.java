@@ -12,7 +12,7 @@ import org.hibernate.cfg.Configuration;
 /**
  * Created by Андрей on 02.04.2018.
  */
-public class Main {
+public class Application {
     public static void main (String[] args) {
 
 
