@@ -1,1 +1,2 @@
 # internet-shop
+# db: postgresql
